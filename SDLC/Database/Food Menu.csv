@@ -1,0 +1,32 @@
+Food Item,Price (Rs),Available,Description
+Tea,25,Yes,Hot Beverage
+Coffee,30,Yes,Hot Beverage
+Lemon Juice,30,Yes,Refreshing Cold Beverage
+Watermelon Juice,30,Yes,Refreshing Cold Beverage
+Mango Juice,50,No,Seasonal Beverage
+Icecream,50,Yes,Any flavors
+Carrot Halwa,50,No,
+Chicken 65,120,Yes,
+Fish Fingers,150,Yes,
+Mutton Balls,150,Yes,
+Gobi Manchurian,120,Yes,
+Mushroom 65,120,Yes,
+Veg Spring Roll,100,Yes,
+Chicken Biriyani,250,Yes,
+Mutton Biriyani,300,Yes,
+Egg Biriyani,200,Yes,
+Plain Biriyani,180,Yes,
+Veg Biriyani,180,Yes,
+Jeera Rice,120,Yes,
+Curd Rice,100,Yes,
+Sambar Rice,100,Yes,
+Butter Chicken Masala,250,Yes,
+Kadaai Chicken Masala,250,Yes,
+Paneer Butter Masala,200,Yes,
+Dhaal,100,Yes,
+Rotti,25,Yes,
+Naan,30,Yes,
+Butter Naan,40,Yes,
+Chicken Fried Rice,180,Yes,
+Panner Fried Rice,150,Yes,
+Veg Fried Rice,120,Yes,

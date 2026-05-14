@@ -1,0 +1,19 @@
+Room No,Size,Occupancy Status,Occupied (Adult),Occupied (Children),Primary Guest,Guest Contact No,Check-In Time,Check-out Time
+101,Single (Non-AC),Occupied,0,0,Raj,+91 6513216546,11-05-2026 13:00,12-05-2026 12:00
+102,Single (AC),Occupied,0,0,Mani,+91 4716518465,0,0
+103,Double (Non-AC),Occupied,0,0,Mohan,+91 9621198456,0,0
+104,Double (AC),Occupied,0,0,Bharathi,+91 1321654655,0,0
+105,Suite (Non-AC),Not Occupied,0,0,Null,+91 0000000000,0,0
+106,Suite (AC),Not Occupied,0,0,Null,+91 0000000000,0,0
+201,Single (Non-AC),Not Occupied,0,0,Null,+91 0000000000,0,0
+202,Single (AC),Not Occupied,0,0,Null,+91 0000000000,0,0
+203,Double (Non-AC),Occupied,0,0,Kumar,+91 6546321896,0,0
+204,Double (AC),Not Occupied,0,0,Null,+91 0000000000,0,0
+205,Suite (Non-AC),Occupied,0,0,Hari,+91 7984653219,0,0
+206,Suite (AC),Not Occupied,0,0,Null,+91 0000000000,0,0
+301,Single (Non-AC),Not Occupied,0,0,Null,+91 0000000000,0,0
+302,Single (AC),Under Maintainance,0,0,Null,+91 0000000000,0,0
+303,Double (Non-AC),Occupied,0,0,Naveen,+91 3163549684,0,0
+304,Double (AC),Under Maintainance,0,0,Null,+91 0000000000,0,0
+305,Suite (Non-AC),Not Occupied,0,0,Null,+91 0000000000,0,0
+306,Suite (AC),Under Maintainance,0,0,Null,+91 0000000000,0,0
