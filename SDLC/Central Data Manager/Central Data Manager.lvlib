@@ -8,6 +8,7 @@
 
 </Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Check Guest History Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Check Guest History Msg/Check Guest History Msg.lvclass"/>
 		<Item Name="Refresh Rooms Status Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Refresh Rooms Status Msg/Refresh Rooms Status Msg.lvclass"/>
 	</Item>
 	<Item Name="Central Data Manager.lvclass" Type="LVClass" URL="../Central Data Manager/Central Data Manager.lvclass"/>

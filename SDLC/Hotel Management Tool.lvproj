@@ -28,6 +28,7 @@
 		<Item Name="Interfaces" Type="Folder">
 			<Item Name="Incoming Model Base Interface.lvlib" Type="Library" URL="../Interfaces/Model Base/Incoming Model Base Interface.lvlib"/>
 			<Item Name="Incoming Hotel Management Tool Model Interface.lvlib" Type="Library" URL="../Interfaces/Hotel Management Tool Model/Incoming Hotel Management Tool Model Interface.lvlib"/>
+			<Item Name="Incoming Rooms Manager Model Interface.lvlib" Type="Library" URL="../Interfaces/Rooms Manager Model/Incoming Rooms Manager Model Interface.lvlib"/>
 		</Item>
 		<Item Name="Config Files" Type="Folder">
 			<Item Name="Tool Configuration.ini" Type="Document" URL="../Config Files/Tool Configuration.ini"/>
@@ -111,6 +112,7 @@
 				<Item Name="Read Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet (DBL).vi"/>
 				<Item Name="Read Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet.vi"/>
 				<Item Name="LVPoint32TypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPoint32TypeDef.ctl"/>
+				<Item Name="Create NI GUID.vi" Type="VI" URL="/&lt;vilib&gt;/string/Create NI GUID.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>

@@ -8,9 +8,11 @@
 
 </Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Launch Guest Manager Msg.lvclass" Type="LVClass" URL="../Rooms Manager Model Messages/Launch Guest Manager Msg/Launch Guest Manager Msg.lvclass"/>
 		<Item Name="Refresh Active Room Details Msg.lvclass" Type="LVClass" URL="../Rooms Manager Model Messages/Refresh Active Room Details Msg/Refresh Active Room Details Msg.lvclass"/>
 		<Item Name="Refresh Rooms Status Msg.lvclass" Type="LVClass" URL="../Rooms Manager Model Messages/Refresh Rooms Status Msg/Refresh Rooms Status Msg.lvclass"/>
 		<Item Name="Update Active Room Details Msg.lvclass" Type="LVClass" URL="../Rooms Manager Model Messages/Update Active Room Details Msg/Update Active Room Details Msg.lvclass"/>
+		<Item Name="Update Guest Name Msg.lvclass" Type="LVClass" URL="../Rooms Manager Model Messages/Update Guest Name Msg/Update Guest Name Msg.lvclass"/>
 	</Item>
 	<Item Name="Rooms Manager Model.lvclass" Type="LVClass" URL="../Rooms Manager Model/Rooms Manager Model.lvclass"/>
 </Library>

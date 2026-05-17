@@ -8,6 +8,7 @@
 
 </Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder">
+		<Item Name="Launch Guest Manager Msg.lvclass" Type="LVClass" URL="../Rooms Manager UI Messages/Launch Guest Manager Msg/Launch Guest Manager Msg.lvclass"/>
 		<Item Name="Refresh Active Room Details Msg.lvclass" Type="LVClass" URL="../Rooms Manager UI Messages/Refresh Active Room Details Msg/Refresh Active Room Details Msg.lvclass"/>
 	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">

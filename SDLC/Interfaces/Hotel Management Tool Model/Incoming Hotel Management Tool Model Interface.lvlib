@@ -5,7 +5,10 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Check Guest History Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Check Guest History Msg/Check Guest History Msg.lvclass"/>
+		<Item Name="Fetch Room Details Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Fetch Room Details Msg/Fetch Room Details Msg.lvclass"/>
 		<Item Name="Refresh Rooms Status Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Refresh Rooms Status Msg/Refresh Rooms Status Msg.lvclass"/>
+		<Item Name="Update Guest Name Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Update Guest Name Msg/Update Guest Name Msg.lvclass"/>
 	</Item>
 	<Item Name="Incoming Hotel Management Tool Model Interface.lvclass" Type="LVClass" URL="../Incoming Hotel Management Tool Model Interface.lvclass"/>
 </Library>
