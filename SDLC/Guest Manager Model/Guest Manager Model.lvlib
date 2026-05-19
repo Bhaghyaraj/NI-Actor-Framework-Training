@@ -10,15 +10,19 @@
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Check Guest History Msg.lvclass" Type="LVClass" URL="../Guest Manager Model Messages/Check Guest History Msg/Check Guest History Msg.lvclass"/>
+		<Item Name="Check-out Msg.lvclass" Type="LVClass" URL="../Guest Manager Model Messages/Check-out Msg/Check-out Msg.lvclass"/>
 		<Item Name="Fetch Room Details Msg.lvclass" Type="LVClass" URL="../Guest Manager Model Messages/Fetch Room Details Msg/Fetch Room Details Msg.lvclass"/>
 		<Item Name="Fetch Room Sizes Msg.lvclass" Type="LVClass" URL="../Guest Manager Model Messages/Fetch Room Sizes Msg/Fetch Room Sizes Msg.lvclass"/>
 		<Item Name="Fetch Rooms List and Size Limits Msg.lvclass" Type="LVClass" URL="../Guest Manager Model Messages/Fetch Rooms List and Size Limits Msg/Fetch Rooms List and Size Limits Msg.lvclass"/>
 		<Item Name="Select Operation Msg.lvclass" Type="LVClass" URL="../Guest Manager Model Messages/Select Operation Msg/Select Operation Msg.lvclass"/>
+		<Item Name="Update Check-in Status Msg.lvclass" Type="LVClass" URL="../Guest Manager Model Messages/Update Check-in Status Msg/Update Check-in Status Msg.lvclass"/>
+		<Item Name="Update Check-out Details Msg.lvclass" Type="LVClass" URL="../Guest Manager Model Messages/Update Check-out Details Msg/Update Check-out Details Msg.lvclass"/>
 		<Item Name="Update Guest Name Msg.lvclass" Type="LVClass" URL="../Guest Manager Model Messages/Update Guest Name Msg/Update Guest Name Msg.lvclass"/>
 		<Item Name="Update Room Details Msg.lvclass" Type="LVClass" URL="../Guest Manager Model Messages/Update Room Details Msg/Update Room Details Msg.lvclass"/>
 		<Item Name="Update room Size Msg.lvclass" Type="LVClass" URL="../Guest Manager Model Messages/Update room Size Msg/Update room Size Msg.lvclass"/>
 		<Item Name="Update Rooms List Msg.lvclass" Type="LVClass" URL="../Guest Manager Model Messages/Update Rooms List Msg/Update Rooms List Msg.lvclass"/>
 		<Item Name="Update Size Limits Msg.lvclass" Type="LVClass" URL="../Guest Manager Model Messages/Update Size Limits Msg/Update Size Limits Msg.lvclass"/>
+		<Item Name="Verify and Check-In Msg.lvclass" Type="LVClass" URL="../Guest Manager Model Messages/Verify and Check-In Msg/Verify and Check-In Msg.lvclass"/>
 	</Item>
 	<Item Name="Guest Manager Model.lvclass" Type="LVClass" URL="../Guest Manager Model/Guest Manager Model.lvclass"/>
 </Library>

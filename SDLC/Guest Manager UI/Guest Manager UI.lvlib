@@ -9,14 +9,18 @@
 </Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder">
 		<Item Name="Check Guest History Msg.lvclass" Type="LVClass" URL="../Guest Manager UI Messages/Check Guest History Msg/Check Guest History Msg.lvclass"/>
+		<Item Name="Check-Out Msg.lvclass" Type="LVClass" URL="../Guest Manager UI Messages/Check-Out Msg/Check-Out Msg.lvclass"/>
 		<Item Name="Fetch Room Details Msg.lvclass" Type="LVClass" URL="../Guest Manager UI Messages/Fetch Room Details Msg/Fetch Room Details Msg.lvclass"/>
 		<Item Name="Fetch Room Sizes Msg.lvclass" Type="LVClass" URL="../Guest Manager UI Messages/Fetch Room Sizes Msg/Fetch Room Sizes Msg.lvclass"/>
 		<Item Name="Fetch Rooms List and Size Limits Msg.lvclass" Type="LVClass" URL="../Guest Manager UI Messages/Fetch Rooms List and Size Limits Msg/Fetch Rooms List and Size Limits Msg.lvclass"/>
+		<Item Name="Verify and Check-in Msg.lvclass" Type="LVClass" URL="../Guest Manager UI Messages/Verify and Check-in Msg/Verify and Check-in Msg.lvclass"/>
 	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Request Check-In Msg.lvclass" Type="LVClass" URL="../Guest Manager UI Messages/Request Check-In Msg/Request Check-In Msg.lvclass"/>
 		<Item Name="Request Check-Out Msg.lvclass" Type="LVClass" URL="../Guest Manager UI Messages/Request Check-Out Msg/Request Check-Out Msg.lvclass"/>
 		<Item Name="Select Page Msg.lvclass" Type="LVClass" URL="../Guest Manager UI Messages/Select Page Msg/Select Page Msg.lvclass"/>
+		<Item Name="Update Check-in Status Msg.lvclass" Type="LVClass" URL="../Guest Manager UI Messages/Update Check-in Status Msg/Update Check-in Status Msg.lvclass"/>
+		<Item Name="Update Check-out Details Msg.lvclass" Type="LVClass" URL="../Guest Manager UI Messages/Update Check-out Details Msg/Update Check-out Details Msg.lvclass"/>
 		<Item Name="Update Count Msg.lvclass" Type="LVClass" URL="../Guest Manager UI Messages/Update Count Msg/Update Count Msg.lvclass"/>
 		<Item Name="Update Guest Name Msg.lvclass" Type="LVClass" URL="../Guest Manager UI Messages/Update Guest Name Msg/Update Guest Name Msg.lvclass"/>
 		<Item Name="Update Room Details Msg.lvclass" Type="LVClass" URL="../Guest Manager UI Messages/Update Room Details Msg/Update Room Details Msg.lvclass"/>

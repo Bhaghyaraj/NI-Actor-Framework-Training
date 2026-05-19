@@ -12,5 +12,6 @@
 	<Item Name="Ring to String.vi" Type="VI" URL="../Ring to String.vi"/>
 	<Item Name="String to Enum.vim" Type="VI" URL="../String to Enum.vim"/>
 	<Item Name="String to Time Stamp.vi" Type="VI" URL="../String to Time Stamp.vi"/>
+	<Item Name="Time Stamp To String.vi" Type="VI" URL="../Time Stamp To String.vi"/>
 	<Item Name="Tool File Paths.vi" Type="VI" URL="../Tool File Paths.vi"/>
 </Library>

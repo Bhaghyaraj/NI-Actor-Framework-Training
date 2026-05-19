@@ -9,7 +9,10 @@
 </Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Check Guest History Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Check Guest History Msg/Check Guest History Msg.lvclass"/>
+		<Item Name="Check-Out Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Check-Out Msg/Check-Out Msg.lvclass"/>
+		<Item Name="Fetch Check-out Details Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Fetch Check-out Details Msg/Fetch Check-out Details Msg.lvclass"/>
 		<Item Name="Refresh Rooms Status Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Refresh Rooms Status Msg/Refresh Rooms Status Msg.lvclass"/>
+		<Item Name="Verify and Check-In Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Verify and Check-In Msg/Verify and Check-In Msg.lvclass"/>
 	</Item>
 	<Item Name="Central Data Manager.lvclass" Type="LVClass" URL="../Central Data Manager/Central Data Manager.lvclass"/>
 </Library>

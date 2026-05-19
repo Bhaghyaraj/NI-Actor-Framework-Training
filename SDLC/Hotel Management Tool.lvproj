@@ -33,6 +33,7 @@
 		<Item Name="Config Files" Type="Folder">
 			<Item Name="Tool Configuration.ini" Type="Document" URL="../Config Files/Tool Configuration.ini"/>
 		</Item>
+		<Item Name="HMT Launcher.vi" Type="VI" URL="../HMT Launcher.vi"/>
 		<Item Name="Hotel Management Tool Model.lvlib" Type="Library" URL="../Hotel Management Tool Model/Hotel Management Tool Model.lvlib"/>
 		<Item Name="Hotel Management Tool UI.lvlib" Type="Library" URL="../Hotel Management Tool UI/Hotel Management Tool UI.lvlib"/>
 		<Item Name="Rooms Manager Model.lvlib" Type="Library" URL="../Rooms Manager Model/Rooms Manager Model.lvlib"/>
@@ -52,7 +53,6 @@
 		<Item Name="Database Data Manager.lvlib" Type="Library" URL="../Database Data Manager/Database Data Manager.lvlib"/>
 		<Item Name="Model Base.lvlib" Type="Library" URL="../Model Base/Model Base.lvlib"/>
 		<Item Name="UI Base.lvlib" Type="Library" URL="../UI Base/UI Base.lvlib"/>
-		<Item Name="HMT Launcher.vi" Type="VI" URL="../HMT Launcher.vi"/>
 		<Item Name="Utilities.lvlib" Type="Library" URL="../Utilities/Utilities.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">

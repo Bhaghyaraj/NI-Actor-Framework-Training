@@ -6,9 +6,11 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Check Guest History Msg.lvclass" Type="LVClass" URL="../../Incoming Rooms Manager Model Interface Messages/Check Guest History Msg/Check Guest History Msg.lvclass"/>
+		<Item Name="Check-Out Msg.lvclass" Type="LVClass" URL="../../Incoming Rooms Manager Model Interface Messages/Check-Out Msg/Check-Out Msg.lvclass"/>
 		<Item Name="Fetch Room Details Msg.lvclass" Type="LVClass" URL="../../Incoming Rooms Manager Model Interface Messages/Fetch Room Details Msg/Fetch Room Details Msg.lvclass"/>
 		<Item Name="Fetch Room Sizes Msg.lvclass" Type="LVClass" URL="../../Incoming Rooms Manager Model Interface Messages/Fetch Room Sizes Msg/Fetch Room Sizes Msg.lvclass"/>
 		<Item Name="Fetch Rooms List and Size Limits Msg.lvclass" Type="LVClass" URL="../../Incoming Rooms Manager Model Interface Messages/Fetch Rooms List and Size Limits Msg/Fetch Rooms List and Size Limits Msg.lvclass"/>
+		<Item Name="Verify and Check-in Msg.lvclass" Type="LVClass" URL="../../Incoming Rooms Manager Model Interface Messages/Verify and Check-in Msg/Verify and Check-in Msg.lvclass"/>
 	</Item>
 	<Item Name="Incoming Rooms Manager Model Interface.lvclass" Type="LVClass" URL="../Incoming Rooms Manager Model Interface.lvclass"/>
 </Library>

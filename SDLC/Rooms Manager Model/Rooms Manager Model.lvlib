@@ -11,7 +11,10 @@
 		<Item Name="Launch Guest Manager Msg.lvclass" Type="LVClass" URL="../Rooms Manager Model Messages/Launch Guest Manager Msg/Launch Guest Manager Msg.lvclass"/>
 		<Item Name="Refresh Active Room Details Msg.lvclass" Type="LVClass" URL="../Rooms Manager Model Messages/Refresh Active Room Details Msg/Refresh Active Room Details Msg.lvclass"/>
 		<Item Name="Refresh Rooms Status Msg.lvclass" Type="LVClass" URL="../Rooms Manager Model Messages/Refresh Rooms Status Msg/Refresh Rooms Status Msg.lvclass"/>
+		<Item Name="Request Check-out Details Msg.lvclass" Type="LVClass" URL="../Rooms Manager Model Messages/Request Check-out Details Msg/Request Check-out Details Msg.lvclass"/>
 		<Item Name="Update Active Room Details Msg.lvclass" Type="LVClass" URL="../Rooms Manager Model Messages/Update Active Room Details Msg/Update Active Room Details Msg.lvclass"/>
+		<Item Name="Update Check-in Status Msg.lvclass" Type="LVClass" URL="../Rooms Manager Model Messages/Update Check-in Status Msg/Update Check-in Status Msg.lvclass"/>
+		<Item Name="Update Check-out Details Msg.lvclass" Type="LVClass" URL="../Rooms Manager Model Messages/Update Check-out Details Msg/Update Check-out Details Msg.lvclass"/>
 		<Item Name="Update Guest Name Msg.lvclass" Type="LVClass" URL="../Rooms Manager Model Messages/Update Guest Name Msg/Update Guest Name Msg.lvclass"/>
 	</Item>
 	<Item Name="Rooms Manager Model.lvclass" Type="LVClass" URL="../Rooms Manager Model/Rooms Manager Model.lvclass"/>
