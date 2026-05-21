@@ -10,6 +10,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Launch Database Msg.lvclass" Type="LVClass" URL="../Hotel Management Tool Model Messages/Launch Database Msg/Launch Database Msg.lvclass"/>
 		<Item Name="Launch Restaurant Manager Msg.lvclass" Type="LVClass" URL="../Hotel Management Tool Model Messages/Launch Restaurant Manager Msg/Launch Restaurant Manager Msg.lvclass"/>
+		<Item Name="Launch Room Service Monitor Msg.lvclass" Type="LVClass" URL="../Hotel Management Tool Model Messages/Launch Room Service Monitor Msg/Launch Room Service Monitor Msg.lvclass"/>
 		<Item Name="Launch Rooms Manager Msg.lvclass" Type="LVClass" URL="../Hotel Management Tool Model Messages/Launch Rooms Manager Msg/Launch Rooms Manager Msg.lvclass"/>
 		<Item Name="Launch Staff Manager Msg.lvclass" Type="LVClass" URL="../Hotel Management Tool Model Messages/Launch Staff Manager Msg/Launch Staff Manager Msg.lvclass"/>
 	</Item>

@@ -1,15 +1,15 @@
 Room No,Size,Occupancy Status,Primary Guest,Guest Contact No,Occupied (Adult),Occupied (Children),Check-In Time,Check-out Time
 101,Single (Non-AC),Not Occupied,0,0,0,0,11-05-2026 13:00,20-05-2026 15:55
-102,Single (AC),Occupied,New,+91 123246545,2,1,21-05-2026 11:31,20-05-2026 15:55
-103,Double (Non-AC),Not Occupied,0,0,0,0,12-05-2026 13:00,20-05-2026 15:55
-104,Double (AC),Occupied,0,0,3,2,20-05-2026 16:10,20-05-2026 16:10
+102,Single (AC),Not Occupied,0,0,0,0,21-05-2026 11:31,22-05-2026 00:17
+103,Double (Non-AC),Not Occupied,0,0,0,0,21-05-2026 12:15,21-05-2026 12:16
+104,Double (AC),Occupied,dgfsgf,23464w6y,1,1,22-05-2026 00:21,22-05-2026 00:18
 105,Suite (Non-AC),Not Occupied,0,0,0,0,01-01-1904 05:30,01-01-1904 05:30
-106,Suite (AC),Occupied,0,0,3,4,20-05-2026 16:11,01-01-1904 05:30
+106,Suite (AC),Not Occupied,0,0,0,0,20-05-2026 16:11,22-05-2026 00:17
 201,Single (Non-AC),Not Occupied,0,0,0,0,01-01-1904 05:30,01-01-1904 05:30
 202,Single (AC),Not Occupied,0,0,0,0,01-01-1904 05:30,01-01-1904 05:30
 203,Double (Non-AC),Not Occupied,0,0,0,0,13-05-2026 13:00,20-05-2026 15:56
-204,Double (AC),Occupied,1,1,0,0,21-05-2026 11:22,20-05-2026 15:56
-205,Suite (Non-AC),Occupied,0,0,4,3,20-05-2026 16:11,20-05-2026 15:56
+204,Double (AC),Not Occupied,0,0,0,0,21-05-2026 11:22,22-05-2026 00:17
+205,Suite (Non-AC),Not Occupied,0,0,0,0,20-05-2026 16:11,22-05-2026 00:17
 206,Suite (AC),Not Occupied,0,0,0,0,01-01-1904 05:30,01-01-1904 05:30
 301,Single (Non-AC),Not Occupied,0,0,0,0,01-01-1904 05:30,01-01-1904 05:30
 302,Single (AC),Under Maintainance,0,0,0,0,01-01-1904 05:30,01-01-1904 05:30

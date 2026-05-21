@@ -5,7 +5,9 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Available Staffs Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Available Staffs Msg/Available Staffs Msg.lvclass"/>
 		<Item Name="Check Guest History Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Check Guest History Msg/Check Guest History Msg.lvclass"/>
+		<Item Name="Check Staff Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Check Staff Msg/Check Staff Msg.lvclass"/>
 		<Item Name="Check-Out Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Check-Out Msg/Check-Out Msg.lvclass"/>
 		<Item Name="Create Room Service Request Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Create Room Service Request Msg/Create Room Service Request Msg.lvclass"/>
 		<Item Name="Fetch Room Details Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Fetch Room Details Msg/Fetch Room Details Msg.lvclass"/>
@@ -14,6 +16,8 @@
 		<Item Name="Update Check-in Status Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Update Check-in Status Msg/Update Check-in Status Msg.lvclass"/>
 		<Item Name="Update Check-out Details Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Update Check-out Details Msg/Update Check-out Details Msg.lvclass"/>
 		<Item Name="Update Guest Name Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Update Guest Name Msg/Update Guest Name Msg.lvclass"/>
+		<Item Name="Update Service Completion Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Update Service Completion Msg/Update Service Completion Msg.lvclass"/>
+		<Item Name="Update Staff Allocation Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Update Staff Allocation Msg/Update Staff Allocation Msg.lvclass"/>
 		<Item Name="Verify and Check-in Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Verify and Check-in Msg/Verify and Check-in Msg.lvclass"/>
 	</Item>
 	<Item Name="Incoming Hotel Management Tool Model Interface.lvclass" Type="LVClass" URL="../Incoming Hotel Management Tool Model Interface.lvclass"/>

@@ -9,10 +9,13 @@
 </Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Check Guest History Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Check Guest History Msg/Check Guest History Msg.lvclass"/>
+		<Item Name="Check Staff Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Check Staff Msg/Check Staff Msg.lvclass"/>
 		<Item Name="Check-Out Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Check-Out Msg/Check-Out Msg.lvclass"/>
 		<Item Name="Create Room Service Request Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Create Room Service Request Msg/Create Room Service Request Msg.lvclass"/>
 		<Item Name="Fetch Check-out Details Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Fetch Check-out Details Msg/Fetch Check-out Details Msg.lvclass"/>
 		<Item Name="Refresh Rooms Status Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Refresh Rooms Status Msg/Refresh Rooms Status Msg.lvclass"/>
+		<Item Name="Update Service Completion Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Update Service Completion Msg/Update Service Completion Msg.lvclass"/>
+		<Item Name="Update Staff Allocation Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Update Staff Allocation Msg/Update Staff Allocation Msg.lvclass"/>
 		<Item Name="Verify and Check-In Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Verify and Check-In Msg/Verify and Check-In Msg.lvclass"/>
 		<Item Name="Write to Database Msg.lvclass" Type="LVClass" URL="../Central Data Manager Messages/Write to Database Msg/Write to Database Msg.lvclass"/>
 	</Item>

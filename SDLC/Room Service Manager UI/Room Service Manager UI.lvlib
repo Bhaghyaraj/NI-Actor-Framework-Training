@@ -12,6 +12,7 @@
 	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Change Page Msg.lvclass" Type="LVClass" URL="../Room Service Manager UI Messages/Change Page Msg/Change Page Msg.lvclass"/>
+		<Item Name="Create Housekeeping Request Msg.lvclass" Type="LVClass" URL="../Room Service Manager UI Messages/Create Housekeeping Request Msg/Create Housekeeping Request Msg.lvclass"/>
 		<Item Name="Initialize UI Msg.lvclass" Type="LVClass" URL="../Room Service Manager UI Messages/Initialize UI Msg/Initialize UI Msg.lvclass"/>
 		<Item Name="Update Title Msg.lvclass" Type="LVClass" URL="../Room Service Manager UI Messages/Update Title Msg/Update Title Msg.lvclass"/>
 	</Item>
