@@ -7,6 +7,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Check Guest History Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Check Guest History Msg/Check Guest History Msg.lvclass"/>
 		<Item Name="Check-Out Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Check-Out Msg/Check-Out Msg.lvclass"/>
+		<Item Name="Create Room Service Request Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Create Room Service Request Msg/Create Room Service Request Msg.lvclass"/>
 		<Item Name="Fetch Room Details Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Fetch Room Details Msg/Fetch Room Details Msg.lvclass"/>
 		<Item Name="Refresh Rooms Status Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Refresh Rooms Status Msg/Refresh Rooms Status Msg.lvclass"/>
 		<Item Name="Request Check-out Details Msg.lvclass" Type="LVClass" URL="../../Incoming Hotel Management Tool Model Interface Messages/Request Check-out Details Msg/Request Check-out Details Msg.lvclass"/>

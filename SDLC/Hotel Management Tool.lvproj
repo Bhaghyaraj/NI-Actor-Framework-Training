@@ -42,6 +42,8 @@
 		<Item Name="Guest Manager UI.lvlib" Type="Library" URL="../Guest Manager UI/Guest Manager UI.lvlib"/>
 		<Item Name="Room Service Manager Model.lvlib" Type="Library" URL="../Room Service Manager Model/Room Service Manager Model.lvlib"/>
 		<Item Name="Room Service Manager UI.lvlib" Type="Library" URL="../Room Service Manager UI/Room Service Manager UI.lvlib"/>
+		<Item Name="Room Service Monitor Model.lvlib" Type="Library" URL="../Room Service Monitor Model/Room Service Monitor Model.lvlib"/>
+		<Item Name="Room Service Monitor UI.lvlib" Type="Library" URL="../Room Service Monitor UI/Room Service Monitor UI.lvlib"/>
 		<Item Name="Restaurant Manager Model.lvlib" Type="Library" URL="../Restaurant Manager Model/Restaurant Manager Model.lvlib"/>
 		<Item Name="Restaurant Manager UI.lvlib" Type="Library" URL="../Restaurant Manager UI/Restaurant Manager UI.lvlib"/>
 		<Item Name="Staff Manager Model.lvlib" Type="Library" URL="../Staff Manager Model/Staff Manager Model.lvlib"/>
@@ -53,6 +55,7 @@
 		<Item Name="Database Data Manager.lvlib" Type="Library" URL="../Database Data Manager/Database Data Manager.lvlib"/>
 		<Item Name="Model Base.lvlib" Type="Library" URL="../Model Base/Model Base.lvlib"/>
 		<Item Name="UI Base.lvlib" Type="Library" URL="../UI Base/UI Base.lvlib"/>
+		<Item Name="Room Service Types.lvlib" Type="Library" URL="../Room Service Types/Room Service Types.lvlib"/>
 		<Item Name="Utilities.lvlib" Type="Library" URL="../Utilities/Utilities.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -113,6 +116,12 @@
 				<Item Name="Read Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet.vi"/>
 				<Item Name="LVPoint32TypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPoint32TypeDef.ctl"/>
 				<Item Name="Create NI GUID.vi" Type="VI" URL="/&lt;vilib&gt;/string/Create NI GUID.vi"/>
+				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
+				<Item Name="Write Delimited Spreadsheet (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (string).vi"/>
+				<Item Name="Write Delimited Spreadsheet (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (I64).vi"/>
+				<Item Name="Write Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (DBL).vi"/>
+				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
+				<Item Name="LVMapReplaceAction.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVMapReplaceAction.ctl"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>

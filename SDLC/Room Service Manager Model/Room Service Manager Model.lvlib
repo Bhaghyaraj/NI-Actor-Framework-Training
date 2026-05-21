@@ -8,6 +8,7 @@
 
 </Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Create Room Service Request Msg.lvclass" Type="LVClass" URL="../Room Service Manager Model Messages/Create Room Service Request Msg/Create Room Service Request Msg.lvclass"/>
 		<Item Name="Update Title Msg.lvclass" Type="LVClass" URL="../Room Service Manager Model Messages/Update Title Msg/Update Title Msg.lvclass"/>
 	</Item>
 	<Item Name="Room Service Manager Model.lvclass" Type="LVClass" URL="../Room Service Manager Model/Room Service Manager Model.lvclass"/>
